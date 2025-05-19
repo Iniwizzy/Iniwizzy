@@ -1,14 +1,53 @@
-## 🐍 About Me:
-web dev-ing
+<h1 align="center">Hi 👋, I'm Ahmad Badawi</h1>
+<h3 align="center">💻 Web Developer & 📱 App Enthusiast</h3>
 
-## 🌐 Socials:
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:badawizzy9@gmail.com)
+<p align="center">
+  Building impactful web and app solutions with a blend of creativity and functionality.<br/>
+  <b>Let's turn your ideas into powerful digital experiences.</b>
+</p>
 
-## 💻 Tech Stack:
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Iniwizzy&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+### 🔗 Connect With Me:
+<p align="left">
+  <a href="https://linkedin.com/in/ahmadbadawi9" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+### 🧰 Tech Stack:
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+</p>
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Iniwizzy&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iniwizzy&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 📌 Top Languages:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iniwizzy&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
+
+---
+
+### 🐍 GitHub Contribution Snake (Optional):
+```md
+https://github.com/ahmadbadawi/ahmadbadawi/blob/output/github-contribution-grid-snake.svg
